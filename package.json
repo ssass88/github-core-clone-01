@@ -1,0 +1,15 @@
+{
+  "name": "gitforge-core",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "High-performance GitHub-compatible Git Forge in pure TypeScript with zero runtime dependencies",
+  "author": "ssass88",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  }
+}
